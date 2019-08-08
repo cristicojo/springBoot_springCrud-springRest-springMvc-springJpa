@@ -1,0 +1,15 @@
+/.idea
+test
+target
+.settings
+src/main/resources/static
+src/main/resources/templates
+.DS_Store
+.classpath
+mvnw.cmd
+.project
+mvnw
+HELP.md
+demo.iml
+
+
