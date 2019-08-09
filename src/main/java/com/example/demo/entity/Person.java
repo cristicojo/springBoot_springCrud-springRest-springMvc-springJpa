@@ -27,9 +27,9 @@ public class Person {
     private int mobile;
 
 
-    public Person(boolean emplyed, String name, int mobile) {
+    public Person(boolean employed, String name, int mobile) {
 
-        this.employed = emplyed;
+        this.employed = employed;
         this.name = name;
         this.mobile = mobile;
 
